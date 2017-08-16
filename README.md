@@ -1,7 +1,7 @@
 # TutorialProject
 
-This project is intended for use with friends to help them learn more about how to use Unity.
+This project is intended for use with friends to help them learn more about how to use Unity and also how to use the features of GitHub, etc.
 
 If found please feel free to follow along (updates may not be consistent or meaningful at times) however do not only use this as a tutorial as this will not help in the creation of anything else that is not created.
 
-THIS IS NOT INTENDED TO PRODUCE A GAME AT THE END
+THIS IS NOT INTENDED TO PRODUCE A GAME AT THE END!!!
