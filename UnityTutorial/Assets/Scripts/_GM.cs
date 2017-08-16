@@ -7,12 +7,13 @@ public class _GM : MonoBehaviour
 	
 	void Start()
 	{
+		"This Is Start"
 		
 	}
 	
 	
 	void Update()
 	{
-		
+		"This Is Update"	
 	}
 }
