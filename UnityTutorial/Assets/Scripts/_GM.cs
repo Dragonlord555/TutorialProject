@@ -8,12 +8,10 @@ public class _GM : MonoBehaviour
 	void Start()
 	{
 		//This is the start function
-		"This Is Start"
 	}
 	
 	void Update()
 	{
 		//This is the update function
-		"This Is Update"
 	}
 }
